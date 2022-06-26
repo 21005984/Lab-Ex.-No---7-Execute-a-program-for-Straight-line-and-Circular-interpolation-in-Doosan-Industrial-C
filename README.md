@@ -37,13 +37,13 @@ Circular Interpolation
 
 ### output
 
-![OUTPUT](./j1.png)
-![OUTPUT](./j2.png)
-![OUTPUT](./j3.png)
-![OUTPUT](./j4.png)
-![OUTPUT](./j5.png)
-![OUTPUT](./j6.png)
-![OUTPUT](./j7.png)
+![OUTPUT](./j1.PNG)
+![OUTPUT](./j2.PNG)
+![OUTPUT](./j3.PNG)
+![OUTPUT](./j4.PNG)
+![OUTPUT](./j5.PNG)
+![OUTPUT](./j6.PNG)
+![OUTPUT](./j7.PNG)
 
 ### Results 
 
