@@ -33,23 +33,23 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
 Linear Interpolation
-
-
-
-
-
-
-
-
 Circular Interpolation
 
 ### output
 
-
-
+![OUTPUT](./w1.png)
+![OUTPUT](./w2.png)
+![OUTPUT](./w3.png)
+![OUTPUT](./w4.png)
+![OUTPUT](./w5.png)
+![OUTPUT](./w6.png)
+![OUTPUT](./w7.png)
 
 ### Results 
+
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully..
 
 
 
  
+
